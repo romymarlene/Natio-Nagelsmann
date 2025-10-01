@@ -1,0 +1,405 @@
+from,to,weight
+Marc-André ter Stegen,FC Barcelona,22
+Marc-André ter Stegen,Borussia Mönchengladbach,14
+Marc-André ter Stegen,U21,6
+Marc-André ter Stegen,U19,2
+Marc-André ter Stegen,U18,2
+Marc-André ter Stegen,U17,2
+Marc-André ter Stegen,U16,2
+Alexander Nübel,VfB Stuttgart,6
+Alexander Nübel,AS Monaco,4
+Alexander Nübel,FC Bayern München,2
+Alexander Nübel,FC Schalke 04,10
+Alexander Nübel,SC Paderborn,8
+Alexander Nübel,U21,4
+Maximilian Mittelstädt,VfB Stuttgart,4
+Maximilian Mittelstädt,Hertha BSC,22
+Maximilian Mittelstädt,U21,2
+Maximilian Mittelstädt,U20,4
+Maximilian Mittelstädt,U19,2
+Maximilian Mittelstädt,U18,2
+Florian Wirtz,Bayer 04 Leverkusen,11
+Florian Wirtz,1. FC Köln,3
+Florian Wirtz,U15,1
+Florian Wirtz,U16,2
+Florian Wirtz,U17,4
+Florian Wirtz,U21,2
+Robert Andrich,Hertha BSC,11
+Robert Andrich,Bayer 04 Leverkusen,8
+Robert Andrich,Dynamo Dresden,3
+Robert Andrich,SV Wehen Wiesbaden,4
+Robert Andrich,1. FC Union Berlin,4
+Robert Andrich,1. FC Heidenheim,2
+Robert Andrich,U18,2
+Robert Andrich,U19,2
+Robert Andrich,U20,2
+Leroy Sane,FC Schalke 04,10
+Leroy Sane,Manchester City,8
+Leroy Sane,FC Bayern München,10
+Leroy Sane,U19,2
+Leroy Sane,U21,2
+Emre Can,FC Bayern München,8
+Emre Can,Bayer 04 Leverkusen,2
+Emre Can,FC Liverpool,8
+Emre Can,Juventus Turin,3
+Emre Can,Borussia Dortmund,11
+Emre Can,U15,1
+Emre Can,U16,2
+Emre Can,U17,2
+Emre Can,U19,2
+Emre Can,U21,4
+Jonathan Tah,Hamburger SV,6
+Jonathan Tah,Fortuna Düsseldorf,2
+Jonathan Tah,Bayer 04 Leverkusen,20
+Jonathan Tah,U16,2
+Jonathan Tah,U17,4
+Jonathan Tah,U19,2
+Jonathan Tah,U21,2
+David Raum,Greuther Fürth,14
+David Raum,TSG Hoffenheim,2
+David Raum,RB Leipzig,6
+David Raum,U19,2
+David Raum,U20,6
+David Raum,U21,2
+Leon Goretzka,VfL Bochum,6
+Leon Goretzka,FC Schalke 04,2
+Leon Goretzka,FC Bayern München,14
+Leon Goretzka,U16,2
+Leon Goretzka,U17,2
+Leon Goretzka,U19,2
+Leon Goretzka,U21,2
+Manuel Neuer,FC Schalke 04,8
+Manuel Neuer,FC Bayern München,28
+Manuel Neuer,U18,1
+Manuel Neuer,U19,2
+Manuel Neuer,U20,2
+Manuel Neuer,U21,6
+Malick Thiaw,FC Schalke 04,10
+Malick Thiaw,AC Mailand,6
+Malick Thiaw,U21,4
+Marvin Ducksch,Borussia Dortmund,12
+Marvin Ducksch,SC Paderborn,2
+Marvin Ducksch,FC St. Pauli,1
+Marvin Ducksch,Holstein Kiel,3
+Marvin Ducksch,Fortuna Düsseldorf,2
+Marvin Ducksch,Hannover 96,4
+Marvin Ducksch,SV Werder Bremen,8
+Marvin Ducksch,Birmingham City,0
+Marvin Ducksch,U15,1
+Marvin Ducksch,U16,2
+Marvin Ducksch,U17,3
+Marvin Ducksch,U18,1
+Mats Hummels,FC Bayern München,14
+Mats Hummels,Borussia Dortmund,26
+Mats Hummels,AS Rom,2
+Mats Hummels,U21,6
+Maximilian Beier,Energie Cottbus,2
+Maximilian Beier,TSG Hoffenheim,10
+Maximilian Beier,Hannover 96,2
+Maximilian Beier,Borussia Dortmund,2
+Maximilian Beier,U17,5
+Maximilian Beier,U20,4
+Maximilian Beier,U21,2
+Nadiem Amiri,SV Waldhof Mannheim,2
+Nadiem Amiri,TSG Hoffenheim,14
+Nadiem Amiri,Bayer 04 Leverkusen,8
+Nadiem Amiri,Genua FC,1
+Nadiem Amiri,1. FSV Mainz 05,3
+Nadiem Amiri,U18,2
+Nadiem Amiri,U19,2
+Nadiem Amiri,U20,1
+Nadiem Amiri,U21,7
+Nico Schlotterbeck,VfR Aalen,2
+Nico Schlotterbeck,Karlsruher SC,4
+Nico Schlotterbeck,SC Freiburg,8
+Nico Schlotterbeck,1. FC Union Berlin,2
+Nico Schlotterbeck,Borussia Dortmund,6
+Nico Schlotterbeck,U18,1
+Nico Schlotterbeck,U19,2
+Nico Schlotterbeck,U20,2
+Nico Schlotterbeck,U21,5
+Nick Woltemade,SV Werder Bremen,10
+Nick Woltemade,SV Elversberg,2
+Nick Woltemade,VfB Stuttgart,2
+Nick Woltemade,U16,1
+Nick Woltemade,U17,6
+Nick Woltemade,U20,4
+Nick Woltemade,U21,4
+Niklas Süle,TSG Hoffenheim,14
+Niklas Süle,FC Bayern München,10
+Niklas Süle,Borussia Dortmund,6
+Niklas Süle,U16,2
+Niklas Süle,U17,2
+Niklas Süle,U18,2
+Niklas Süle,U19,2
+Niklas Süle,U20,1
+Niklas Süle,U21,3
+Oliver Baumann,SC Freiburg,18
+Oliver Baumann,TSG Hoffenheim,22
+Oliver Baumann,U18,2
+Oliver Baumann,U19,3
+Oliver Baumann,U20,1
+Oliver Baumann,U21,8
+Pascal Groß,VfL Neckarau,2
+Pascal Groß,TSG Hoffenheim,7
+Pascal Groß,Karlsruher SC,3
+Pascal Groß,FC Ingolstadt,10
+Pascal Groß,Brighton & Hove Albion,14
+Pascal Groß,Borussia Dortmund,2
+Pascal Groß,U18,2
+Pascal Groß,U19,2
+Pascal Groß,U20,4
+Jamie Leweling,1.FC Schnaittach,10
+Jamie Leweling,1.SC Feucht,4
+Jamie Leweling,1. FC Nürnberg,10
+Jamie Leweling,Greuther Fürth,10
+Jamie Leweling,1. FC Union Berlin,2
+Jamie Leweling,VfB Stuttgart,4
+Jamie Leweling,U19,2
+Jamie Leweling,U20,2
+Jamie Leweling,U21,6
+Jamal Musiala,TSV Lehnerz,4
+Jamal Musiala,FC Southampton,2
+Jamal Musiala,FC Chelsea,16
+Jamal Musiala,FC Bayern München,12
+Jamal Musiala,U16,2
+Jonas Hofmann,FC Rot,12
+Jonas Hofmann,TSG Hoffenheim,14
+Jonas Hofmann,Borussia Dortmund,8
+Jonas Hofmann,1. FSV Mainz 05,2
+Jonas Hofmann,Borussia Mönchengladbach,16
+Jonas Hofmann,Bayer 04 Leverkusen,4
+Jonas Hofmann,U18,4
+Jonas Hofmann,U21,4
+Jonathan Burkardt,SV Darmstadt 98,10
+Jonathan Burkardt,1. FSV Mainz 05,22
+Jonathan Burkardt,U15,1
+Jonathan Burkardt,U16,2
+Jonathan Burkardt,U17,2
+Jonathan Burkardt,U18,2
+Jonathan Burkardt,U19,2
+Jonathan Burkardt,U20,2
+Jonathan Burkardt,U21,6
+Joshua Kimmich,VfB Stuttgart,12
+Joshua Kimmich,RB Leipzig,4
+Joshua Kimmich,FC Bayern München,20
+Joshua Kimmich,U17,2
+Joshua Kimmich,U18,1
+Joshua Kimmich,U19,1
+Joshua Kimmich,U21,4
+Julian Brandt,SC Borgfeld,16
+Julian Brandt,FC Oberneuland,4
+Julian Brandt,VfL Wolfsburg,6
+Julian Brandt,Bayer 04 Leverkusen,10
+Julian Brandt,Borussia Dortmund,12
+Julian Brandt,U15,1
+Julian Brandt,U16,1
+Julian Brandt,U17,2
+Julian Brandt,U19,4
+Julian Brandt,U20,1
+Julian Brandt,U21,2
+Kai Havertz,Alemannia Mariadorf,12
+Kai Havertz,Alemannia Aachen,2
+Kai Havertz,Bayer 04 Leverkusen,20
+Kai Havertz,FC Chelsea,6
+Kai Havertz,FC Arsenal,4
+Kai Havertz,U16,2
+Kai Havertz,U17,4
+Kai Havertz,U19,2
+Karim Adeyemi,TSV Forstenried,6
+Karim Adeyemi,FC Bayern München,2
+Karim Adeyemi,SpVgg Unterhaching,12
+Karim Adeyemi,RB Salzburg,6
+Karim Adeyemi,FC Liefering,2
+Karim Adeyemi,Borussia Dortmund,6
+Karim Adeyemi,U16,1
+Karim Adeyemi,U17,2
+Karim Adeyemi,U21,6
+Kevin Behrens,SC Weyhe,8
+Kevin Behrens,SV Werder Bremen,6
+Kevin Behrens,SV Wilhelmshaven,2
+Kevin Behrens,Hannover 96,4
+Kevin Behrens,Alemannia Aachen,2
+Kevin Behrens,RW Essen,2
+Kevin Behrens,1. FC Saarbrücken,4
+Kevin Behrens,SV Sandhausen,6
+Kevin Behrens,1. FC Union Berlin,6
+Kevin Behrens,VfL Wolfsburg,2
+Kevin Behrens,FC Lugano,1
+Kevin Schade,SV Babelsberg 03,12
+Kevin Schade,Energie Cottbus,8
+Kevin Schade,SC Freiburg,10
+Kevin Schade,FC Brentford,4
+Kevin Schade,U18,1
+Kevin Schade,U19,2
+Kevin Schade,U20,2
+Kevin Schade,U21,6
+Kevin Trapp,FC Brotdorf,6
+Kevin Trapp,SSV Bachem,6
+Kevin Trapp,SV Mettlach,4
+Kevin Trapp,1. FC Kaiserslautern,14
+Kevin Trapp,Eintracht Frankfurt,20
+Kevin Trapp,Paris SG,6
+Kevin Trapp,Paris FC,1
+Kevin Trapp,U18,2
+Kevin Trapp,U19,2
+Kevin Trapp,U21,6
+Aleksandar Pavlovic,FC Bayern München,22
+Aleksandar Pavlovic,U20,2
+Angelo Stiller,FC Bayern München,12
+Angelo Stiller,TSG Hoffenheim,4
+Angelo Stiller,VfB Stuttgart,4
+Angelo Stiller,U17,2
+Angelo Stiller,U18,2
+Angelo Stiller,U20,2
+Angelo Stiller,U21,6
+Antonio Rüdiger,Borussia Dortmund,6
+Antonio Rüdiger,VfB Stuttgart,8
+Antonio Rüdiger,AS Rom,4
+Antonio Rüdiger,FC Chelsea,10
+Antonio Rüdiger,Real Madrid,6
+Antonio Rüdiger,U18,2
+Antonio Rüdiger,U19,2
+Antonio Rüdiger,U20,2
+Antonio Rüdiger,U21,4
+Benjamin Henrichs,Bayer 04 Leverkusen,12
+Benjamin Henrichs,AS Monaco,4
+Benjamin Henrichs,RB Leipzig,10
+Benjamin Henrichs,U15,2
+Benjamin Henrichs,U16,2
+Benjamin Henrichs,U18,1
+Benjamin Henrichs,U19,2
+Benjamin Henrichs,U21,1
+Bernd Leno,VfB Stuttgart,8
+Bernd Leno,Bayer 04 Leverkusen,13
+Bernd Leno,FC Arsenal,8
+Bernd Leno,FC Fulham,6
+Bernd Leno,U17,2
+Bernd Leno,U18,2
+Bernd Leno,U19,4
+Bernd Leno,U21,6
+Brajan Gruda,1. FSV Mainz 05,10
+Brajan Gruda,Brighton & Hove Albion,2
+Brajan Gruda,U15,1
+Brajan Gruda,U16,2
+Brajan Gruda,U17,4
+Brajan Gruda,U18,1
+Brajan Gruda,U19,2
+Brajan Gruda,U21,2
+Chris Führich,Borussia Dortmund,7
+Chris Führich,VfL Bochum,1
+Chris Führich,SC Rot-Weiß Oberhausen,4
+Chris Führich,1. FC Köln,2
+Chris Führich,SC Paderborn,2
+Chris Führich,VfB Stuttgart,8
+Deniz Undav,TSV Achim,2
+Deniz Undav,SV Werder Bremen,2
+Deniz Undav,SC Weyhe,4
+Deniz Undav,TSV Havelse,6
+Deniz Undav,BTSV Eintracht Braunschweig,2
+Deniz Undav,SV Meppen,4
+Deniz Undav,Union SG,5
+Deniz Undav,Brighton & Hove Albion,2
+Deniz Undav,VfB Stuttgart,4
+Felix Nmecha,Manchester City,8
+Felix Nmecha,VfL Wolfsburg,4
+Felix Nmecha,Borussia Dortmund,4
+Felix Nmecha,U18,1
+Felix Nmecha,U21,2
+Grischa Prömel,Stuttgarter Kickers,6
+Grischa Prömel,TSG Hoffenheim,10
+Grischa Prömel,Karlsruher SC,4
+Grischa Prömel,1. FC Union Berlin,10
+Grischa Prömel,U20,2
+Grischa Prömel,U21,4
+Ilkay Gündoğan,VfL Bochum,8
+Ilkay Gündoğan,1. FC Nürnberg,4
+Ilkay Gündoğan,Borussia Dortmund,10
+Ilkay Gündoğan,Manchester City,16
+Ilkay Gündoğan,FC Barcelona,2
+Ilkay Gündoğan,Galatasaray Istanbul,1
+Ilkay Gündoğan,U18,1
+Ilkay Gündoğan,U19,2
+Ilkay Gündoğan,U20,2
+Ilkay Gündoğan,U21,2
+Janis Blaswich,Borussia Mönchengladbach,20
+Janis Blaswich,Dynamo Dresden,2
+Janis Blaswich,Hansa Rostock,2
+Janis Blaswich,Heracles Almelo,8
+Janis Blaswich,RB Leipzig,4
+Janis Blaswich,RB Salzburg,2
+Janis Blaswich,Bayer 04 Leverkusen,1
+Robin Gosens,VfL Rhede,6
+Robin Gosens,Vitesse Arnheim,3
+Robin Gosens,FC Dordrecht,3
+Robin Gosens,Heracles Almelo,4
+Robin Gosens,Atalanta Bergamo,9
+Robin Gosens,Inter Mailand,3
+Robin Gosens,1. FC Union Berlin,2
+Robin Gosens,AC Florenz,2
+Robin Koch,Eintracht Trier,12
+Robin Koch,1. FC Kaiserslautern,4
+Robin Koch,SC Freiburg,6
+Robin Koch,Leeds United,6
+Robin Koch,Eintracht Frankfurt,4
+Robin Koch,U21,2
+Rocco Reitz,Borussia Mönchengladbach,13
+Rocco Reitz,VV St. Truiden,3
+Rocco Reitz,U16,1
+Rocco Reitz,U21,4
+Serge Gnabry,VfB Stuttgart,2
+Serge Gnabry,West Bromwich Albion,1
+Serge Gnabry,FC Arsenal,9
+Serge Gnabry,SV Werder Bremen,2
+Serge Gnabry,TSG Hoffenheim,2
+Serge Gnabry,FC Bayern München,14
+Serge Gnabry,U16,2
+Serge Gnabry,U17,2
+Serge Gnabry,U18,1
+Serge Gnabry,U21,4
+Thilo Kehrer,VfB Stuttgart,2
+Thilo Kehrer,FC Schalke 04,12
+Thilo Kehrer,Paris SG,8
+Thilo Kehrer,West Ham United,3
+Thilo Kehrer,AS Monaco,3
+Thilo Kehrer,U16,1
+Thilo Kehrer,U17,2
+Thilo Kehrer,U19,1
+Thilo Kehrer,U20,2
+Thilo Kehrer,U21,2
+Thomas Müller,FC Bayern München,42
+Thomas Müller,U16,1
+Thomas Müller,U19,1
+Thomas Müller,U20,1
+Thomas Müller,U21,1
+Tim Kleindienst,Energie Cottbus,10
+Tim Kleindienst,SC Freiburg,6
+Tim Kleindienst,1. FC Heidenheim,11
+Tim Kleindienst,KAA Gent,1
+Tim Kleindienst,Borussia Mönchengladbach,2
+Tim Kleindienst,U20,4
+Toni Kroos,Hansa Rostock,4
+Toni Kroos,FC Bayern München,13
+Toni Kroos,Bayer 04 Leverkusen,3
+Toni Kroos,Real Madrid,20
+Toni Kroos,U17,4
+Toni Kroos,U19,1
+Toni Kroos,U21,2
+Waldemar Anton,Hannover 96,18
+Waldemar Anton,VfB Stuttgart,8
+Waldemar Anton,Borussia Dortmund,2
+Waldemar Anton,U21,6
+Yann Bisseck,1. FC Köln,5
+Yann Bisseck,Holstein Kiel,1
+Yann Bisseck,Roda JC Kerkrade,2
+Yann Bisseck,Vitória Guimarães SC,2
+Yann Bisseck,Aarhus GF,4
+Yann Bisseck,Inter Mailand,4
+Yann Bisseck,U17,2
+Yann Bisseck,U18,1
+Yann Bisseck,U19,2
+Yann Bisseck,U21,3
+Stefan Ortega,Arminia Bielefeld,24
+Stefan Ortega,1860 München,6
+Stefan Ortega,Manchester City,6
+Stefan Ortega,U19,1
